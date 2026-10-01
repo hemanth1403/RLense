@@ -28,7 +28,7 @@ We build an **Intelligent Multi-Model ML Orchestration Platform** that:
 
 **Core Innovation:** The RL-powered orchestration layer generalizes beyond computer vision to any ML domain (NLP, time series, audio, etc.). We demonstrate with autonomous systems because real-time requirements make the value proposition clear.
 
-### Performance Targets
+### Results
 
 **Latency:** 48ms → 20ms average (58% reduction)  
 **Throughput:** 21 FPS → 55 FPS (2.6× improvement)  
