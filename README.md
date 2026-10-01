@@ -1,4 +1,4 @@
-# Intelligent Multi-Model ML Orchestration Platform
+# RLense : Intelligent Multi-Model ML Orchestration Platform
 
 **RL-Powered Adaptive Model Selection for Autonomous Systems Perception**
 
